@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div>Host react App on vercel</div>
+    <div><h1>Host react App on vercel</h1></div>
   )
 }
 
